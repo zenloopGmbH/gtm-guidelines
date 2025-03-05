@@ -27,8 +27,8 @@ The implementation guides are organized into the following categories:
 - **[Abandonment Feedback Surveys](4_inactivity_interruption_surveys/abandonment_feedback.md)**: Capture feedback when users abandon forms, carts, or other processes.
 
 ### 5. Post-Conversion Surveys
-- **Order Confirmation Surveys**: Gather feedback after successful purchases.
-- **Thank You Page Surveys**: Collect feedback after form submissions or other conversions.
+- **[Post-Purchase/Sign-Up Surveys](5_post_conversion_surveys/post_purchase_signup.md)**: Gather feedback immediately after a purchase or registration.
+- **[Post-Interaction Surveys](5_post_conversion_surveys/post_interaction.md)**: Collect feedback after a user completes a significant interaction.
 
 ## How to Use These Guides
 
